@@ -17,6 +17,22 @@ This group assignment includes two major tasks:
 
 Students analyze and recreate a timetable visualization inspired by Marey's 1885 Paris–Lyon train map.
 
+![](https://i.imgur.com/1q8InSB.jpeg)
+
+## 📝 Results:
+
+![](https://i.imgur.com/fPK2fAK.png)
+
+## Code below and assignment description (Swedish):
+
+**Answers:**
+
+![](https://i.imgur.com/OBY6I9N.png)
+![](https://i.imgur.com/OBY6I9N.png)
+![](https://i.imgur.com/mJMRgz5.png)
+![](https://i.imgur.com/BLi9iOK.png)
+![](https://i.imgur.com/fPK2fAK.png)
+
 ### Tasks include:
 
 - Interpreting line **slopes** (positive/negative) and **steepness** (flat/sharp)
@@ -31,7 +47,27 @@ Students analyze and recreate a timetable visualization inspired by Marey's 1885
 
 ## 🌡️ Task 2 – Temperature Time Series Analysis (Uppsala 1722–2022)
 
+## 📝 Results:
+
+# (1) ![](https://i.imgur.com/a5R4BxP.png)
+# (2) ![](https://i.imgur.com/u9R6F1C.png)
+
+# (1) Code below and assignment description (Swedish): 
+
 You will download and process a historical temperature dataset from SMHI covering **109,927 daily measurements**.
+![](https://i.imgur.com/4vfjSjX.png)
+![](https://i.imgur.com/R6sTPY8.png)
+![](https://i.imgur.com/Cwf77GV.png)
+![](https://i.imgur.com/Zi9qk5j.png)
+
+# (2) Code below and assignment description (Swedish): 
+![](https://i.imgur.com/B8fg8ou.png)
+![](https://i.imgur.com/sIJ2n4c.png)
+
+![](https://i.imgur.com/3b7V7dx.png)
+![](https://i.imgur.com/SqoeAex.png)
+![](https://i.imgur.com/TfFtw5J.png)
+
 
 ### Subtasks include:
 
@@ -42,19 +78,6 @@ You will download and process a historical temperature dataset from SMHI coverin
 - Analyzing whether warming is **evenly distributed across months**
 
 📦 Libraries used: `dplyr`, `ggplot2`, `readr`
-
----
-
-## 📝 Results
-
-- `Group_X.qmd` – Quarto file with R code, explanations, and plots
-- `Group_X.pdf` – Exported from Quarto with visible code
-- The dataset used in Task 1 (e.g., timetable data created by the group)
-- Code must include:
-  - **All libraries and packages loaded**
-  - **All used data files**, so the project is fully reproducible
-
-⚠️ Another group will review your work, so include everything needed to run your code.
 
 ---
 
